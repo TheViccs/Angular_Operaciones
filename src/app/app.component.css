@@ -1,0 +1,21 @@
+body{
+    height: 100vh; /*Abarca todo el tamaño de la pantalla*/
+    background: #c31432;
+    background: -webkit-linear-gradient(to top, #240b36, #c31432);
+    background: linear-gradient(to top, #240b36, #c31432);
+    
+}
+
+/*Imagen*/
+
+img{
+    width: 300;
+}
+
+#listado:hover{
+    background-color: gainsboro;
+}
+
+#btnEliminar{
+    margin-left: 5px;
+}
